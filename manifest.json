@@ -6,6 +6,7 @@
   "kind": "asset",
   "license": "LicenseRef-Proprietary",
   "compat": ">=0.1",
+  "description": "Rides the caption up and down the frame with the pitch of the voice, like a note moving on a stave.",
   "author": "HereLiesAz",
   "targetApps": [
     "com.hereliesaz.guillotine"
